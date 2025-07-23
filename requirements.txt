@@ -1,0 +1,12 @@
+# Core deep learning and data handling
+torch
+datasets
+
+# Hugging Face ecosystem for transformers, PEFT, and training
+transformers
+peft
+trl
+accelerate
+
+# For model quantization
+bitsandbytes
